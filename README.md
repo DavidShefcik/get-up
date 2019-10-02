@@ -2,7 +2,7 @@
 ## A special alarm clock app for my entry in the 2019 congressional app challenge.
 
 ### What does this app do?
-This app allows users to create an alarm and set the amount of times it should go off. So if you wake up and turn off your alarm, another will be ready to go off. It can also then give the user a brain teaser to try and wake them up.
+Will update this when I submit the app :)
 
 ### Questions
 - How did I hear about the congressional app challenge?
