@@ -6,7 +6,7 @@
 
 ### What does this app do?
 
-Will update this when I submit the app :)
+This app allows users to create several alarms at once within a short amount of time.
 
 ### Questions
 
