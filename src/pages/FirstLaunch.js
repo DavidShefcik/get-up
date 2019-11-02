@@ -29,12 +29,8 @@ class FirstLaunch extends React.Component {
     return (
       <View style={styles.initialView}>
         <Text style={styles.firstWelcomeText}>Get Up.</Text>
-        <Text style={styles.welcomeSubtitle}>
-          Get Up will make sure you get up.
-        </Text>
         <Text style={styles.description}>
-          Several alarms at once. A puzzle to shut them off. Good luck hitting
-          snooze.
+          Finally an easy way to make sure you get up.
         </Text>
         <TouchableOpacity
           style={styles.button}
