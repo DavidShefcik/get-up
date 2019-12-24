@@ -26,7 +26,3 @@ This app allows users to create several alarms at once within a short amount of 
 - I only have an Android version available on the releases page because I can't compile a version for iOS without a mac, which I don't have.
 - The app works in full screen on Android due to some Java code I added manually. To make the app full screen on iOS, you'll need to add the code to do so on your own.
 - The app also does not have support for iOS alarms. You will have to implement that manually.
-
-```
-live: https://davidshefcik.com/api
-```
