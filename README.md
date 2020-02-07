@@ -9,7 +9,7 @@
 This app allows users to create several alarms at once within a short amount of time.
 
 ### Did you win?
-Sadly, no. However, I congratuate my fellow Neuqua Valley students [Rahul Koul and Ibrahim Islam](https://www.congressionalappchallenge.us/19-IL14) on their achievement.
+Sadly, no. However, I congratuate my fellow Neuqua Valley students [Rahul Koul and Ibrahim Islam](https://www.congressionalappchallenge.us/19-IL14) on their victory.
 
 ### Questions
 
